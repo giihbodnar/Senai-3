@@ -1,0 +1,15 @@
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\bin\Debug\net6.0\Encontro Remoto 6.exe
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\bin\Debug\net6.0\Encontro Remoto 6.deps.json
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\bin\Debug\net6.0\Encontro Remoto 6.runtimeconfig.json
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\bin\Debug\net6.0\Encontro Remoto 6.dll
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\bin\Debug\net6.0\Encontro Remoto 6.pdb
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\obj\Debug\net6.0\Encontro Remoto 6.csproj.AssemblyReference.cache
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\obj\Debug\net6.0\Encontro Remoto 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\obj\Debug\net6.0\Encontro Remoto 6.AssemblyInfoInputs.cache
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\obj\Debug\net6.0\Encontro Remoto 6.AssemblyInfo.cs
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\obj\Debug\net6.0\Encontro Remoto 6.csproj.CoreCompileInputs.cache
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\obj\Debug\net6.0\Encontro Remoto 6.dll
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\obj\Debug\net6.0\refint\Encontro Remoto 6.dll
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\obj\Debug\net6.0\Encontro Remoto 6.pdb
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\obj\Debug\net6.0\Encontro Remoto 6.genruntimeconfig.cache
+C:\Users\OI417408\Desktop\SA2 - Back-End - UC15\Encontro Remoto 6\obj\Debug\net6.0\ref\Encontro Remoto 6.dll
