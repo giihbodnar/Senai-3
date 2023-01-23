@@ -1,0 +1,6 @@
+C:\Users\Ale\Desktop\Chapter\TesteIntegracao\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Ale\Desktop\Chapter\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.csproj.AssemblyReference.cache
+C:\Users\Ale\Desktop\Chapter\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ale\Desktop\Chapter\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.AssemblyInfoInputs.cache
+C:\Users\Ale\Desktop\Chapter\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.AssemblyInfo.cs
+C:\Users\Ale\Desktop\Chapter\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.csproj.CoreCompileInputs.cache

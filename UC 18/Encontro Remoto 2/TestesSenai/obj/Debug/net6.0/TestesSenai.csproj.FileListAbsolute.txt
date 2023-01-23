@@ -1,0 +1,12 @@
+C:\Users\Ale\source\repos\TestesSenai\TestesSenai\bin\Debug\net6.0\TestesSenai.deps.json
+C:\Users\Ale\source\repos\TestesSenai\TestesSenai\bin\Debug\net6.0\TestesSenai.dll
+C:\Users\Ale\source\repos\TestesSenai\TestesSenai\bin\Debug\net6.0\TestesSenai.pdb
+C:\Users\Ale\source\repos\TestesSenai\TestesSenai\obj\Debug\net6.0\TestesSenai.csproj.AssemblyReference.cache
+C:\Users\Ale\source\repos\TestesSenai\TestesSenai\obj\Debug\net6.0\TestesSenai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ale\source\repos\TestesSenai\TestesSenai\obj\Debug\net6.0\TestesSenai.AssemblyInfoInputs.cache
+C:\Users\Ale\source\repos\TestesSenai\TestesSenai\obj\Debug\net6.0\TestesSenai.AssemblyInfo.cs
+C:\Users\Ale\source\repos\TestesSenai\TestesSenai\obj\Debug\net6.0\TestesSenai.csproj.CoreCompileInputs.cache
+C:\Users\Ale\source\repos\TestesSenai\TestesSenai\obj\Debug\net6.0\TestesSenai.dll
+C:\Users\Ale\source\repos\TestesSenai\TestesSenai\obj\Debug\net6.0\refint\TestesSenai.dll
+C:\Users\Ale\source\repos\TestesSenai\TestesSenai\obj\Debug\net6.0\TestesSenai.pdb
+C:\Users\Ale\source\repos\TestesSenai\TestesSenai\obj\Debug\net6.0\ref\TestesSenai.dll
