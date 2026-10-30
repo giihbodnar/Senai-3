@@ -1,0 +1,10 @@
+# Arquivos gerados durante a compilação
+bin/
+obj/
+
+# Configurações locais do Visual Studio
+.vs/
+
+# Arquivos temporários
+*.user
+*.suo
