@@ -2,9 +2,9 @@
 
 # Projetos e Estudos — SENAI
 
-Este repositório reúne atividades práticas e projetos desenvolvidos durante minha formação em programação e desenvolvimento de sistemas no SENAI.
+Este repositório reúne atividades práticas e projetos desenvolvidos durante meus estudos de programação e desenvolvimento de sistemas no SENAI.
 
-O conteúdo está organizado por unidades curriculares e registra diferentes etapas do meu aprendizado.
+O conteúdo está organizado por unidades curriculares e registra diferentes etapas do meu aprendizado. São exercícios antigos, preservados como foram desenvolvidos na época, inclusive com possíveis limitações e funcionalidades incompletas.
 
 ## Conteúdo do Repositório
 
@@ -14,9 +14,6 @@ Exercícios envolvendo classes, interfaces e conceitos de programação orientad
 ### UC 17 — Desenvolvimento de APIs
 Atividades envolvendo a estruturação de aplicações, controladores, modelos e repositórios.
 
-### UC 18 — Testes de Software
-Exercícios relacionados à criação e execução de testes de software, incluindo testes unitários e de integração.
-
 ## Sobre os Projetos
 
-Os arquivos foram produzidos em contexto educacional e são mantidos como registro da minha evolução técnica e das experiências práticas adquiridas durante os estudos.
+Os arquivos foram produzidos em contexto educacional e são mantidos como registro da minha evolução técnica. Não representam necessariamente aplicações finalizadas ou prontas para uso.
